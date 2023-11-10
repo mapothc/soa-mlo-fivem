@@ -3,4 +3,7 @@
 
 #Dieses Kostenlose MLO ist verfügbar bei github & thc-rp.de
 
-#This is a 100% original file from Frosti1984. You can change the look and structures, the chapter is extra large and has a 2nd rear motorcycle, car or truck exit. Furthermore, there is an entrance to the next building via stairs.
+#This is a 100% original file from thc-rp.de You can change the look and structures, the chapter is extra large and has a 2nd rear motorcycle, car or truck exit. Furthermore, there is an entrance to the next building via stairs.
+
+
+THCRP since 2006
